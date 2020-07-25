@@ -5,9 +5,9 @@
   <img src="https://profile-counter.glitch.me/vineetsagar/count.svg" />
 </p>
 
-I'm Vineet Sagar
-- 🔭 I’m currently working on ...
-Building a mobile app, inspired by productivity book!!
+## 🔭 Currently working on 
+
+- Building a mobile app, inspired by productivity book!!
 - 🌱 I’m currently learning ...
 Lot of things excite me but currently I'm in love with React Native, Python and Blockchain.
 - 👯 I’m looking to collaborate on...
