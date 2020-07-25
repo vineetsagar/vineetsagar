@@ -1,4 +1,8 @@
 <img src="https://github.com/vineetsagar/vineetsagar/blob/master/images/banner.png"/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vineetsagar/count.svg" />
+</p>
 
 I'm Vineet Sagar
 - 🔭 I’m currently working on ...
